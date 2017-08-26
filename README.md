@@ -1,2 +1,3 @@
 # hello-world
 learning github
+This is my first github project..i think i am starting to love this place...
